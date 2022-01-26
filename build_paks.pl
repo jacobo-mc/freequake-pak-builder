@@ -20,7 +20,7 @@ my %zip_urls = qw(
     LibreQuake.zip          https://github.com/MissLav/LibreQuake/archive/master.zip
     quake_map_source.zip    https://github.com/fzwoch/quake_map_source/archive/master.zip
     OpenQuartz.zip          https://iweb.dl.sourceforge.net/project/openquartz/Open%20Quartz%20playable%20games/Open%20Quartz%202004.08.01/OpenQuartzWindows2004.08.01.zip
-    Quake_Sound_Bulb.zip    https://sjc4.dl.dbolical.com/dl/2019/10/03/Quake_Sound_Bulb.zip
+    Quake_Sound_Bulb.zip    https://sjc2.dl.dbolical.com/dl/2019/10/02/Quake_Sound_Bulb.zip?st=YuieQ1KUewk0kQuVf6PWRA==&e=1643216444
 );
 
 my %opts = ();
